@@ -50,3 +50,9 @@ I don’t have many skills and  experience now. But my main is to learn. I want 
  ## Experience
 
  Я учусь в *RS School 2021q1*.
+
+ ## Education
+
+ - *"Bulorussian Institute of Jurisprudence", Minsk, 2002.*
+ - *Evgeny Popov's Internet courses on HTML and CSS, 2020.*
+ 
