@@ -1,6 +1,7 @@
 # Alena Yatsynovich
 
-## Contact info<rb\>
+## Contact info
+
 - Minsk, Belarus
 - Tel: + 375 29 688 84 67
 - E-mail: elen7staver@gmail.com
@@ -8,7 +9,7 @@
 
 ## Summary
 
-I don’t have many skills and  experience now. But my main is to learn. I want to have opportunity to work as a Front-End Developer. 
+I don’t have many skills and experience now. But my main is to learn. I want to have opportunity to work as a Front-End Developer.
 
 ## Skills
 
@@ -20,42 +21,22 @@ I don’t have many skills and  experience now. But my main is to learn. I want 
 
 ## Code examples
 
-```<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Git Course</title>
-    <style>
-        *{
-            margin: 10;
-            padding: 10;
-        }
-    </style>
-</head>
-<body>
-  <h1>Hello Git</h1>  
-</body>
-<script src="script.js"></script>
-</html> 
+```javascript
+function someFunction() {
+  return 4 - 1;
+}
+someFunction();
 ```
 
-```javascript
-  function someFunction() {
-    return 2 + 1;
-  }
-  someFunction();
- ```
+## Experience
 
- ## Experience
+I study in _RS School 2021q1_.
 
- Я учусь в *RS School 2021q1*.
+## Education
 
- ## Education
+- _"Bulorussian Institute of Jurisprudence", Minsk, 2002._
+- _Evgeny Popov's Internet courses on HTML and CSS, 2020._
 
- - *"Bulorussian Institute of Jurisprudence", Minsk, 2002.*
- - *Evgeny Popov's Internet courses on HTML and CSS, 2020.*
+## English
 
- ## English
-
- _**(A2)**_
+_**(A2)**_
