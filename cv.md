@@ -17,3 +17,32 @@ I don’t have many skills and  experience now. But my main is to learn. I want 
 - JavaScript (beginner)
 - Visual Studio Code (beginner)
 - Git (beginner)
+
+## Code examples
+
+```<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git Course</title>
+    <style>
+        *{
+            margin: 10;
+            padding: 10;
+        }
+    </style>
+</head>
+<body>
+  <h1>Hello Git</h1>  
+</body>
+<script src="script.js"></script>
+</html> 
+```
+
+```javascript
+  function someFunction() {
+    return 2 + 1;
+  }
+  someFunction();
+ ```
