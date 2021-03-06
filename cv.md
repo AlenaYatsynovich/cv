@@ -46,3 +46,7 @@ I don’t have many skills and  experience now. But my main is to learn. I want 
   }
   someFunction();
  ```
+
+ ## Experience
+
+ Я учусь в *RS School 2021q1*.
